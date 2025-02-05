@@ -1,66 +1,66 @@
-Tasks Covered in This Analysis
+#Tasks Covered in This Analysis
 
-Display Top 10 Rows of the Dataset:
+1. Display Top 10 Rows of the Dataset:
 Displays the first 10 rows of the dataset to get an initial glimpse of the data.
 
-Check Last 10 Rows of the Dataset:
+2. Check Last 10 Rows of the Dataset:
 Shows the last 10 rows of the dataset to verify the data at the end.
 
-Find Shape of Our Dataset (Number of Rows and Columns):
+3. Find Shape of Our Dataset (Number of Rows and Columns):
 Provides the number of rows and columns in the dataset, helping understand its size.
 
-Getting Information About Our Dataset:
+4. Getting Information About Our Dataset:
 Displays key information like column names, data types, and non-null counts.
 
-Check Null Values in the Dataset:
+5. Check Null Values in the Dataset:
 Identifies columns that have missing values (NaN).
 
-Drop All the Missing Values:
+6. Drop All the Missing Values:
 Removes rows with missing values from the dataset to clean the data.
 
-Check for Duplicate Data:
+7. Check for Duplicate Data:
 Verifies if there are any duplicate rows in the dataset.
 
-Get Overall Statistics About the DataFrame:
+8. Get Overall Statistics About the DataFrame:
 Provides a summary of the dataset, including count, mean, standard deviation, min, and max values for numerical columns.
 
-Display Title of the Movie Having Runtime More Than 150 Minutes:
+9. Display Title of the Movie Having Runtime More Than 150 Minutes:
 Filters and displays the titles of movies with a runtime greater than 150 minutes.
 
-In Which Year Was the Highest Voting?
+10. In Which Year Was the Highest Voting?
 Identifies the year in which movies received the most votes.
 
-In Which Year Was the Highest Revenue?
+11. In Which Year Was the Highest Revenue?
 Identifies the year in which the movies generated the highest revenue.
 
-Find the Average Rating for Each Director:
+12. Find the Average Rating for Each Director:
 Calculates the average rating of movies directed by each director.
 
-Display Top 10 Lengthy Movies Titles:
+13. Display Top 10 Lengthy Movies Titles:
 Displays the titles of the 10 longest movies based on runtime.
 
-Display Number of Movies Per Year:
+14. Display Number of Movies Per Year:
 Displays the number of movies released each year.
 
-Find the Most Popular Movie Title (Highest Revenue):
+15. Find the Most Popular Movie Title (Highest Revenue):
 Identifies the movie that generated the highest revenue.
 
-Display Top 10 Highest Rated Movie Titles:
+16. Display Top 10 Highest Rated Movie Titles:
 Displays the titles of the top 10 highest-rated movies.
 
-Display Top 10 Highest Revenue Movie Titles:
+17. Display Top 10 Highest Revenue Movie Titles:
 Displays the titles of the top 10 movies with the highest revenue.
 
-Find the Average Rating of Movies Year-wise:
+18. Find the Average Rating of Movies Year-wise:
 Calculates the average rating for movies released each year.
 
-Does Rating Affect the Revenue?
+19. Does Rating Affect the Revenue?
 Analyzes whether movie ratings affect the revenue. Answer: Yes, as higher ratings tend to correlate with higher revenue.
 
-Classify Movies Based on Ratings (Good, Bad, Excellent, etc.):
+20. Classify Movies Based on Ratings (Good, Bad, Excellent, etc.):
 Classifies movies into categories based on their ratings.
 
-Count Number of Action Movies:
+21. Count Number of Action Movies:
 Counts the number of movies that belong to the Action genre.
 
 Installation
